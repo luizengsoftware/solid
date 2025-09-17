@@ -144,14 +144,6 @@ var service = new NotificationService(new EmailSender());
 
 ---
 
-## Como usar neste repositório
-
-1. Coloque a pasta `images/` na raiz do repositório.
-2. Copie este `README.md` para a raiz.
-3. (Opcional) Adapte os exemplos para o seu cenário (DI container, bibliotecas de e-mail/SMS, etc.).
-
----
-
 ### Dicas rápidas (recap):
 - **S**: um bloco, um propósito.
 - **O**: estenda com novas classes, não edite código estável.
